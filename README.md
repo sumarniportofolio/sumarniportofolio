@@ -1,4 +1,4 @@
-# Hi, I'm Marni <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi, I'm Marni <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 👩‍💻
 
 - 👋 I’m passionate about data.
 - 👀 I'm highly curious about research, IoT data analytics, and artificial Intelligence especially machine learning that loves to "learning by doing".
