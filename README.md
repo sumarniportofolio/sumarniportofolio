@@ -1,13 +1,9 @@
 # Hi, I'm Marni <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 👩‍💻
 
-
-- 👋 I’m passionate about data.
-- 👀 I'm highly curious about research, IoT data analytics, and artificial Intelligence especially machine learning that loves to "learning by doing".
-- 🌱 I’m currently learning about machine learning.
-- 💞️ I'm always motivated to keep learning and innovating.
-
 ![Sumarni's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumarniportofolio&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumarniportofolio&layout=compact)](https://github.com/sumarniportofolio/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/sumarniportofolio/github-readme-stats)
+
 
 <!---
 sumarniportofolio/sumarniportofolio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
