@@ -1,6 +1,6 @@
 # Hi, I'm Marni <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 👩‍💻
 
-  ## "Data is a valuable, powerful commodity — but unlike oil, it is unlimited in quantity and in its capacity for harm, says technology thinker James Bridle."
+ 
 
 
 <!---
