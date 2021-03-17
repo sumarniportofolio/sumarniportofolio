@@ -1,6 +1,6 @@
 # Hi, I'm Marni <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 👩‍💻
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/sumarniportofolio/github-readme-quotes)
+
 
 
 <!---
